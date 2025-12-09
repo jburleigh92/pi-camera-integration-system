@@ -1,0 +1,7 @@
+# Core Dependencies
+pyyaml>=6.0
+pillow>=9.0.0
+
+# Optional - Advanced Features
+# opencv-python>=4.5.0  # Uncomment for OpenCV backend
+# gphoto2>=2.3.0        # Uncomment for DSLR support
