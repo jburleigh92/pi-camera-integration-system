@@ -250,5 +250,3 @@ MIT License – free for use, modification, and distribution.
 **Jason Burleigh**  
 Systems Integration Engineer – Demonstration Project  
 2025
-
-**This will impress Mycronic.**
